@@ -12,16 +12,6 @@
 </div>
 <table align="center">
     <tr>
-        <td>
-            <p align="center">
-                <sub>
-                  <i>i listened hard but could not see<br>
-                     life tempo change out and inside me<br>
-                     the preacher trained in all to lose his name<br>
-                     the teacher travels, asking to be shown the same</i>
-                </sub>
-            </p>
-        </td>
       <td>
             <p align="center">
                 <sub><br>
