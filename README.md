@@ -5,7 +5,7 @@
     <p>
       <sup>
         ciência da computação ✧ 25yo ✧ BR ✧ apple dev academy<br>
-        estudando: c, c#, swift, python<br>
+        estudando: c, c#, swift, python, ruby<br>
         prog rock, jogos, animes&mangás, programar
       </sup>
     </p>
