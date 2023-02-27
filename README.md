@@ -1,6 +1,6 @@
 
 <div align="center">
-  <img src="https://pbs.twimg.com/media/FlnUBpiWYAAtwOm?format=png&name=small"> 
+  <img src="https://pbs.twimg.com/media/Fp9SGY4WwAA4Mgr?format=png&name=small"> 
   <h5>julia</h5>
     <p>
       <sup>
