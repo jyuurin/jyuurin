@@ -15,20 +15,34 @@
       <td>
             <p align="center">
                 <sub><br>
-                    <i>in the end we'll agree, we'll accept, we'll immortalize<br>
-                       that the truth of the man maturing in his eyes<br>
-                       all complete in the sight of seeds of life with you</i>
+                    <i>The carousel is spinning fast<br>
+                        better enjoy while it lasts<br>
+                        Every moment is like gold<br>
+                        you'll remember when you're old<br>
+                        And the meaning of this life<br>
+                        is to live and is to die</i><br>
                 </sub>
             </p>
             <br>
         </td>
       <td>
             <p align="center">
-                <sub><i>Coming quickly to terms of all expression laid<br>
-                       as a moment regained and regarded both the same<br>
-                       emotion revealed as the ocean maid<br>
-                       a clearer future, morning, evening, nights with you ✧
+                <sub><i>Make the best out of your dreams<br>
+                        they're the world where you are free<br>
+                        All the sorrow and the pain<br>
+                        will be washed away by rain<br>
+                        An eternal joy will come<br>
+                        it can be found by everyone ✧<br>
                 </i></sub>
+            </p>
+        </td>
+      <td>
+            <p align="center">
+                <sub><i>Though the end is drawing near<br>
+                        I'm not feeling any fear<br>
+                        I have found the truth inside<br>
+                        after all the tears I've cried...<br>
+                        Season of Change...  ✧</i></sub>
             </p>
         </td>
     </tr>
