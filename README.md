@@ -4,7 +4,7 @@
   <h5>julia</h5>
     <p>
       <sup>
-        ciência da computação ✧ 25yo ✧ BR ✧ apple dev academy<br>
+        ciência da computação ✧ 26yo ✧ BR <br>
         estudando: c, c#, swift, python<br>
         prog rock, jogos, animes&mangás, programar
       </sup>
