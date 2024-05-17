@@ -5,7 +5,6 @@
     <p>
       <sup>
         ciência da computação ✧ 26yo ✧ BR <br>
-        estudando: c, c#, swift, python<br>
         prog rock, jogos, animes&mangás, programar
       </sup>
     </p>
